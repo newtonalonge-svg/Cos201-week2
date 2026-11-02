@@ -1,9 +1,9 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name: [Enter your full name]
-- Matriculation Number: [Enter your matriculation number]
-- Programme: Computer Science
+- Name: Alonge Newton shadrack
+- Matriculation Number: 25/18324
+- Programme: Cyber security 
 - Course: COS 201
 - Level: 200
 
